@@ -1,0 +1,3 @@
+#!/bin/sh
+
+git add $1.ml && git commit -m "Add $1"
