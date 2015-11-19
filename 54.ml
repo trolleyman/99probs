@@ -77,4 +77,3 @@ is_complete_binary_tree 3 c;;
 is_complete_binary_tree 3 d;;
 is_complete_binary_tree 3 e;;
 is_complete_binary_tree 3 f;; (*true*)
-
